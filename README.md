@@ -1,13 +1,13 @@
-# gtklock
-GTK-based lockscreen for Wayland.
+# turtlelock
+Fork of gtklock adding libadwaita support
 
 ![screenshot](https://user-images.githubusercontent.com/21199271/169707623-2ac5f02b-b6ed-461a-b9a3-5d96440843a2.png)
 ## About
-gtklock is a lockscreen based on [gtkgreet](https://git.sr.ht/~kennylevinsen/gtkgreet).
+turtlelock is a lockscreen based on [gtkgreet](https://git.sr.ht/~kennylevinsen/gtkgreet).
 It uses the wlr-layer-shell and wlr-input-inhibitor Wayland protocols.
 Works on sway and other wlroots-based compositors.
 
-ℹ️ __For documentation, check out the [man page](https://man.voidlinux.org/gtklock) and [wiki](https://github.com/jovanlanik/gtklock/wiki).__
+ℹ️ __For documentation, check out the [man page](https://man.voidlinux.org/gtklock) and [gtklock's wiki](https://github.com/jovanlanik/gtklock/wiki).__
 
 Available on these repositories:
 
